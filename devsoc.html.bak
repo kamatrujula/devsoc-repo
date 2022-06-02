@@ -2,9 +2,11 @@
 <html>
 <head>
 <title>DevSoc Project</title>
+<link rel="stylesheet" href="devsocstyle.css">
 </head>
 
 <body>
 <h1>My DevSoc Project</h1>
+<h2>Change for branch testing.</h2>
 </body>
 </html>
